@@ -7,11 +7,12 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+TAs in the lab section
+https://www.w3schools.com/java/
+https://www.youtube.com/watch?v=Eiw5kRObUS0
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Bryant Liu` | `byliu`   |
