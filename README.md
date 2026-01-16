@@ -7,9 +7,9 @@
 
 ## References and Resources
 
-TAs in the lab section
-https://www.w3schools.com/java/
-https://www.youtube.com/watch?v=Eiw5kRObUS0
+- TAs in the lab section
+- https://www.w3schools.com/java/
+- https://www.youtube.com/watch?v=Eiw5kRObUS0
 
 ## Verbal Collaboration
 
